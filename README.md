@@ -59,6 +59,13 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
+
+
+
+
+
+
+
 About react
 ## Available Scripts
 
